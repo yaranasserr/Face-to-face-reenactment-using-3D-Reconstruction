@@ -60,7 +60,4 @@ python /path/to/3DDFA_V2/face_reenactment.py \
 --mode <mode> \
 --show_flag <true/false>
 ```
-## Results  
-Here is an example of the face-to-face reenactment results:  
 
-![Results](https://drive.google.com/uc?id=1DJmmjWuO8QPyoV9B3R8b17BsrtGOmK2W)
