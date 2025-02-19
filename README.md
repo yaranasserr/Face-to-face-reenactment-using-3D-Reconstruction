@@ -1,7 +1,7 @@
 # Face-to-face-reenactment-using-3D-Reconstruction
 
 
-![Results](https://github.com/yaranasserr/Face-to-face-reenactment-using-3D-Reconstruction/blob/main/results.png)
+![Results](https://github.com/yaranasserr/Face-to-face-reenactment-using-3D-Reconstruction/blob/main/3D.png)
 
 This repository utilizes code from [3DDFA_V2](https://github.com/cleardusk/3DDFA_V2), which employs 3D Morphable Models (3DMM) for 3D face reconstruction.
 
